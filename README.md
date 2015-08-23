@@ -14,7 +14,7 @@ rapidintellect.com/AEQweb (No)
 
 ### How to use
 
-1. Install it, as below.
+1. Install it, as below. (Uninstall any prior OAB you have. This is necessary for testing.)
 2. Open it, and log in if needed
 3. Browse to test sites - a yes/no/okay may appear on the icon
 4. Click the button on the page to display a fuller response. 
